@@ -1,3 +1,6 @@
+# Deno Build
+.deno_dir
+
 # Logs
 logs
 *.log
